@@ -1,4 +1,8 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">⌨️ Backend dev</h3>
+
+- 🔭 Momentálně pracuji na **Různé Python projekty**
+
+- 🌱 Učím se **Java, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
