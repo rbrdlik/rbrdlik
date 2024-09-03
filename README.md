@@ -7,3 +7,5 @@
 <h3 align="left">Učím se:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
+<img src="https://th.bing.com/th/id/OIP.5KLlWCNChOoVi68zX-xEewAAAA?pid=ImgDet&rs=1" width="300px">
+
