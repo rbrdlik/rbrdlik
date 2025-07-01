@@ -63,8 +63,8 @@
 
 <table>
   <tr>
-    <td width="450" style="vertical-align: middle;">
-      <img src="https://github.com/user-attachments/assets/4cd5622f-b587-4a25-9612-169dbd610bbf" alt="Project 1" width="450" style="border-radius: 10px; display: block; margin: auto 0;" />
+    <td width="250" style="vertical-align: middle;">
+      <img src="https://github.com/user-attachments/assets/4cd5622f-b587-4a25-9612-169dbd610bbf" alt="Project 1" width="250" style="border-radius: 10px; display: block; margin: auto 0;" />
     </td>
     <td style="padding-left: 15px; border: 1px solid #ddd; border-radius: 10px; vertical-align: middle;">
       <h3>📃 iFaktura</h3>
@@ -76,8 +76,8 @@
   </tr>
   <tr><td colspan="2" style="height: 20px;"></td></tr>
   <tr>
-    <td width="450" style="vertical-align: middle;">
-      <img src="https://github.com/user-attachments/assets/40839bfd-3dbd-48f0-886c-1ef81394b9bd" alt="Project 2" width="450" style="border-radius: 10px; display: block; margin: auto 0;" />
+    <td width="250" style="vertical-align: middle;">
+      <img src="https://github.com/user-attachments/assets/40839bfd-3dbd-48f0-886c-1ef81394b9bd" alt="Project 2" width="250" style="border-radius: 10px; display: block; margin: auto 0;" />
     </td>
     <td style="padding-left: 15px; border: 1px solid #ddd; border-radius: 10px; vertical-align: middle;">
       <h3>🪑 SitSpace</h3>
