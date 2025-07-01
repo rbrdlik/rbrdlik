@@ -13,5 +13,4 @@
 
 <img src="https://th.bing.com/th/id/OIP.5KLlWCNChOoVi68zX-xEewAAAA?pid=ImgDet&rs=1" width="300px">
 
-
-![discotools-xyz-icon](https://github.com/user-attachments/assets/1eec202e-cf10-4731-a6e1-4014c4f64b17)
+![Statistics](https://github.com/user-attachments/assets/a36f0980-f29e-425b-a277-dceddc56be9f)
