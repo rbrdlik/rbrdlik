@@ -95,7 +95,7 @@
 <h2> 📊 My Github Stats</h2>
 <div style="display: flex" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rbrdlik&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="rbrdlik's GitHub Stats" height="200px" />
-  <img src="https://streak-stats.demolab.com?user=rbrdlik&theme=dark&hide_border=true" alt="rbrdlik's GitHub Stats" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrdlik&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="rbrdlik's GitHub Stats" height="200px" />
 </div>
 
 <div align="center">
