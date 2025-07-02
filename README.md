@@ -4,6 +4,7 @@
 <div align="center">
   <a href=""><img src="https://camo.githubusercontent.com/9f6439531e12e8474bec4d9461eeae25d4defb3cf1faeeeb5b64ce8ca2911217/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" /></a>
   <a href=""><img src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" /></a>
+  <a href="https://discord.com/users/775068775501398047"><img src="https://github.com/user-attachments/assets/05ed7178-954a-42f8-b296-d03de8ec2fbf" /></a>
 </div>
 
 <div align="center">I’m an 18-year-old student at the Secondary Technical School in Mladá Boleslav, studying Information Technology. <br> I am a full stack developer with a primary focus on creating websites and web applications. At the same time, I would like to extend my skills into mobile and desktop application development.
@@ -100,3 +101,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=5:101010,50:b31217,100:101010&section=footer">
 </div>
+
