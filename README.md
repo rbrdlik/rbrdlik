@@ -7,7 +7,7 @@
   <a href="https://discord.com/users/775068775501398047"><img src="https://github.com/user-attachments/assets/05ed7178-954a-42f8-b296-d03de8ec2fbf" /></a>
 </div>
 
-<div align="center">I’m an 19-year-old student at the Secondary Technical University in Liberec, studying Information Technology. <br> I am a full stack developer with a primary focus on creating websites and web applications. At the same time, I would like to extend my skills into mobile and desktop application development.
+<div align="center">I’m an 19-year-old student at the Technical University in Liberec, studying Information Technology. <br> I am a full stack developer with a primary focus on creating websites and web applications. At the same time, I would like to extend my skills into mobile and desktop application development.
 </div>
 
 ---
